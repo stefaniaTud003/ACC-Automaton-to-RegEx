@@ -1,0 +1,3 @@
+﻿  Automaton.cpp
+C:\Facultate\Sem2\ACC\Project1\Project1\Automaton.cpp(138,63): warning C4858: discarding return value: This member function returns a bool indicating whether the container is empty and has no other effects. It is not useful to call this member function and discard the return value. Use the 'clear()' member function if you want to erase all elements.
+  Project1.vcxproj -> C:\Facultate\Sem2\ACC\Project1\x64\Debug\Project1.exe
